@@ -1,0 +1,8 @@
+./data.txt(raw)
+00000000: 1f8b 0808 0650 b45e 0203 6461 7461 322e  .....P.^..data2.
+
+./data.txt_tmp(hexdump) -> ./data.txt_tmp_tmp(gzip) -> ./data.txt_tmp_tmp.out(bzip) -> ./data.txt_tmp_tmp.out_tmp(gzip) -> data5.bin(tar) -> data6.bin(tar) -> data6.bin.out(bzip) -> data8.bin(tar) -> data8.bin_tmp(gzip) -> data8.bin_tmp(raw)
+The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+./data.txt_tmp(hexdump) -> ./data.txt_tmp_tmp(gzip) -> ./data.txt_tmp_tmp.out(bzip) -> ./data.txt_tmp_tmp.out_tmp(gzip) -> data5.bin(tar) -> data6.bin(tar) -> data6.bin.out(bzip) -> data8.bin(tar) -> data8.bin_tmp(gzip) ->  -> N©jË0¢·b³ÆcÈ$baX’wš„|1
+ýðofµ9X
