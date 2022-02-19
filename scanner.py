@@ -5,7 +5,6 @@ import logging
 import os
 from re import S, sub
 import subprocess
-from tkinter import W
 import tarfile
 
 def decode_file(filename, scanres, path):
